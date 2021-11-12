@@ -1,0 +1,11 @@
+1|etiqueta
+2|agua
+3|pepino
+4|
+5|
+6|
+7|arroz
+8|
+10|
+11|
+****
